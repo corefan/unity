@@ -1,5 +1,7 @@
 # 3rd Person Shooter
 
+![Demo gameplay](demo_gameplay.gif)
+
 **Note:** In order for this game to function properly, there needs to be a folder within the Project Assets titled `AssetStore` and then within there you will need the following:
 
  - SimplePeople
